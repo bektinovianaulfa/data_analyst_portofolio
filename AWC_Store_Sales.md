@@ -24,11 +24,11 @@ output:
 ![Screenshot (130)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/870701c2-d99b-458e-ac5c-45f5fbb1d795)
 
 ##### 💡4 who purchased more, men or women?
-![Screenshot (134)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/1292dcaf-3769-4ca1-b629-e7ce83e1f6d7)
+![Screenshot (155)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/63bf7a8f-f739-436f-afd4-62d9ee670d7d)
 
 output:
 
-![Screenshot (135)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/b12111b2-6fa8-4c16-a2c9-94f7166e4624)
+![Screenshot (154)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/86951220-92bb-4386-9f9a-8f268b0d456e)
 
 ##### 💡5 relation between age and gender in purchased?
 ![Screenshot (142)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/50432e52-1334-4c18-beba-b9c82c2b375d)
