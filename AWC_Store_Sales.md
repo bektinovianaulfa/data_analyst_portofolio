@@ -58,4 +58,13 @@ output:
 
 ![Screenshot (151)](https://github.com/bektinovianaulfa/data_analyst_portofolio/assets/136595664/1e2f4b20-7585-4bc4-ae55-e0552cec4569)
 
+#### INSIGHT
+- 50,8% of buyers are male and 49.2 of buyers are female.
+- Most of the buyers are adults (35-64years).
+- Water bottle - 30 oz are the best selling product.
+- Californian, british columibia, and england are the  state that contributes the most sales.
 
+#### RECOMENDATION:
+- To increase the sale, store owner must target adult (35-64 years).
+- targeted ads can be shown to adults of californian, british columbia, and england
+- Water bottle are the most sold product, store owner must increase varieties of water bottle with various sizes
